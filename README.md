@@ -1,4 +1,4 @@
-# X-editable
+# X-editable [DEPRECATED, NOT MAINTAINED ANYMORE]
 
 In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.  
 
